@@ -11,3 +11,5 @@ A collection of links to nice!view shield designs
 | [futurama button miss](https://github.com/whoop-t/nice-fry-button-miss)    | whoop-t    |
 | [luffy wanted](https://github.com/whoop-t/nice-luffy-wanted)    | whoop-t    |
 
+## Want to add your own?
+Anyone is welcome to raise a PR with a link your nice!view shield to help keep a growing list for the community!
