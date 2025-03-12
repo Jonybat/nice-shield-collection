@@ -10,6 +10,7 @@ A collection of links to nice!view shield designs
 | [futurama sus](https://github.com/whoop-t/nice-futurama-sus)    | [whoop-t](https://github.com/whoop-t)    |
 | [futurama button miss](https://github.com/whoop-t/nice-fry-button-miss)    | [whoop-t](https://github.com/whoop-t)    |
 | [luffy wanted](https://github.com/whoop-t/nice-luffy-wanted)    | [whoop-t](https://github.com/whoop-t)   |
+| [luffy gear five](https://github.com/whoop-t/nice-luffy-gear-five)    | [whoop-t](https://github.com/whoop-t)   |
 | --- | --- |
 | [nice view gem](https://github.com/M165437/nice-view-gem)    | [M165437](https://github.com/M165437)  |
 
