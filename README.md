@@ -5,7 +5,6 @@ A collection of links to nice!view shield designs
 | Link     | Created By |
 | -------- | ------- |
 | [nice view gem](https://github.com/M165437/nice-view-gem)    | [M165437](https://github.com/M165437)  |
-| --- | --- |
 | [create your own!](https://github.com/whoop-t/nice-shield-base)  | [whoop-t](https://github.com/whoop-t)    |
 | [one punch man ok](https://github.com/whoop-t/nice-one-punch-ok)  | [whoop-t](https://github.com/whoop-t)    |
 | [adventure time](https://github.com/whoop-t/nice-adventure-time) | [whoop-t](https://github.com/whoop-t)     |
