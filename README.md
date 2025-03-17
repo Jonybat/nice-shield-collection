@@ -17,5 +17,5 @@ A collection of links to nice!view shield designs
 ## Want to add your own?
 Anyone is welcome to raise a PR with a link your nice!view shield to help keep a growing list for the community!
 
-## I have OLEDs and not nice!views :(
+## I use QMK and OLEDs and not nice!views :(
 Check out my [OLED collection!](https://github.com/whoop-t/qmk-oled-collection) and consider raising a PR and adding your own there.
