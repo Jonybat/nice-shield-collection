@@ -18,6 +18,7 @@ A collection of links to nice!view shield designs
 | [nice!view Elemental](https://github.com/kevinpastor/nice-view-elemental)    | [kevinpastor](https://github.com/kevinpastor)  |
 | [Nice View with HID support](https://github.com/zzeneg/zmk-nice-view-hid)    | [zzeneg](https://github.com/zzeneg)  |
 | [nice!view Press Start](https://github.com/Ziembski/nice-view-press-start)    | [Ziembski](https://github.com/Ziembski)  |
+| [dongle_display!view](https://github.com/mctechnology17/zmk-dongle-display-view)    | [mctechnology17](https://github.com/mctechnology17)  |
 
 ## Want to add your own?
 Anyone is welcome to raise a PR with a link your nice!view shield to help keep a growing list for the community!
