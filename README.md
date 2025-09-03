@@ -14,6 +14,10 @@ A collection of links to nice!view shield designs
 | [luffy gear five](https://github.com/whoop-t/nice-luffy-gear-five)    | [whoop-t](https://github.com/whoop-t)   |
 | [Bongo Cat with FURIOUS Mode](https://github.com/dsifry/nice-view-mod) | [dsifry](https://github.com/dsifry)  |
 | [WH40K Spacemarine Insignia](https://github.com/Jestar342/nice-view-spacemarine) | [Jestar342](https://github.com/Jestar342)  |
+| [nice view battery](https://github.com/infely/nice-view-battery)    | [infely](https://github.com/infely)  |
+| [nice!view Elemental](https://github.com/kevinpastor/nice-view-elemental)    | [kevinpastor](https://github.com/kevinpastor)  |
+| [Nice View with HID support](https://github.com/zzeneg/zmk-nice-view-hid)    | [zzeneg](https://github.com/zzeneg)  |
+| [nice!view Press Start](https://github.com/Ziembski/nice-view-press-start)    | [Ziembski](https://github.com/Ziembski)  |
 
 ## Want to add your own?
 Anyone is welcome to raise a PR with a link your nice!view shield to help keep a growing list for the community!
