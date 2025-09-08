@@ -19,6 +19,10 @@ A collection of links to nice!view shield designs
 | [Nice View with HID support](https://github.com/zzeneg/zmk-nice-view-hid)    | [zzeneg](https://github.com/zzeneg)  |
 | [nice!view Press Start](https://github.com/Ziembski/nice-view-press-start)    | [Ziembski](https://github.com/Ziembski)  |
 | [dongle_display!view](https://github.com/mctechnology17/zmk-dongle-display-view)    | [mctechnology17](https://github.com/mctechnology17)  |
+| [nice!oled - nice!epaper](https://github.com/mctechnology17/zmk-nice-oled)    | [mctechnology17](https://github.com/mctechnology17)  |
+| [Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow)    | [GPeye](https://github.com/GPeye)  |
+| [Urchin Peripheral Animation](https://github.com/GPeye/urchin-peripheral-animation)    | [GPeye](https://github.com/GPeye)  |
+| [Mario Peripheral Animation](https://github.com/GPeye/mario-peripheral-animation)    | [GPeye](https://github.com/GPeye)  |
 
 ## Want to add your own?
 Anyone is welcome to raise a PR with a link your nice!view shield to help keep a growing list for the community!
