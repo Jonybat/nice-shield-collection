@@ -8,7 +8,7 @@ A collection of links to nice!view shield designs
 > As of around December 9, 2025, ZMK updated to use LVGL V9, this changed many
 > drawing apis used in most if not all the code for the display repos below.
 > I(whoop-t) will not updating code to the new api changes(for the forseeable
-> future) so you will need to pin ZMK to version `0.3` and NOT main in your ZMK
+> future) so you will need to pin ZMK to version `0.3` and NOT `main` in your ZMK
 > config.
 >
 > If you see any ZMK build issues with errors like `nice_nano_v2` not found,
