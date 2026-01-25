@@ -5,10 +5,15 @@ A collection of links to nice!view shield designs
 ## ZMK BREAKING CHANGES
 
 > [!NOTE]
-> ZMK updated to use LVGL V9, this changed many drawing apis used in most if
-> not all the code for the display repos below. I(whoop-t) will not updating
-> code to the new api changes(for the forseeable future) so you will need to
-> pin ZMK to version 0.3 and NOT main in your ZMK config.
+> As of around December 9, 2025, ZMK updated to use LVGL V9, this changed many
+> drawing apis used in most if not all the code for the display repos below.
+> I(whoop-t) will not updating code to the new api changes(for the forseeable
+> future) so you will need to pin ZMK to version `0.3` and NOT main in your ZMK
+> config.
+>
+> If you see any ZMK build issues with errors like `nice_nano_v2` not found,
+> this is from the same update with breaking changes. Pinning to version `0.3`
+> will resolve this as well.
 >
 > See this [commit](https://github.com/whoop-t/zmk-config/commit/d861b49920a37098dc19dac6bdd2c4552d4422e4) for how I pinned in my ZMK repo
 > You can also read about pinning and the update on ZMK itself [here](https://zmk.dev/blog/2025/12/09/zephyr-4-1#switching-to-the-previous-release)
