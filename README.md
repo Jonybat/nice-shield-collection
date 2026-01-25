@@ -15,8 +15,9 @@ A collection of links to nice!view shield designs
 > this is from the same update with breaking changes. Pinning to version `0.3`
 > will resolve this as well.
 >
-> See this [commit](https://github.com/whoop-t/zmk-config/commit/d861b49920a37098dc19dac6bdd2c4552d4422e4) for how I pinned in my ZMK repo
-> You can also read about pinning and the update on ZMK itself [here](https://zmk.dev/blog/2025/12/09/zephyr-4-1#switching-to-the-previous-release)
+> See this [commit](https://github.com/whoop-t/zmk-config/commit/d861b49920a37098dc19dac6bdd2c4552d4422e4) for how I pinned in my ZMK repo.
+>
+> You can also read about pinning and the update on ZMK itself [here](https://zmk.dev/blog/2025/12/09/zephyr-4-1#switching-to-the-previous-release).
 
 ## Collection
 
